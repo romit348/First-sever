@@ -1,0 +1,24 @@
+<html>
+<head> <title> Class 1 </title> </head>
+ 
+<body background = "C:\Users\romit\Pictures\Wallpapers\Wallpaper.jpg">
+<h1> Class 1 work </h1>
+<h2> Romit Rao </h2>
+<h3> Student </h3>
+<h4> Seamedu School of Pro-Expressionism, Pune, India </h4><hr>
+
+<p> This is the first class of html </p> 
+<h2> About </h2>
+<p> i beleive learning is a continuous process and would like to constanly enhance my knowledge and skills for a succesfull and fullfiling career</p>
+<h2> Skills </h2>
+<Li><ul> 
+<h2> Education </h2>
+<table border="10" bgcolor = "red">
+<tr><th> name  </th>
+<td> kv </td>
+<tr><th> cousre </th>
+<tr><th> year </th>
+<td>
+</body>
+</html>
+

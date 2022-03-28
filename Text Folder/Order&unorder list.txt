@@ -1,0 +1,22 @@
+<HTML>
+<head>
+<Title>ExampleWebsite</title>
+</head>
+
+<body bgcolor = #85929E >
+<h1>Output</h1>
+
+<OL type = "1">
+<li>listA</li>
+<li>listB</li>
+</OL>
+
+<h1>Unorder and Order list</h1>
+
+<OL type = "1" start="3">
+<li>listC</li>
+
+</body>
+</HTML>
+
+
